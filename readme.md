@@ -1,5 +1,7 @@
 # OpenAI Image Generator
 
+[Link](https://www.youtube.com/watch?v=fU4o_BKaUZE&ab_channel=TraversyMedia)
+
 This is a simple image generator built with Node.js and Express that uses [OpenAI's Dall-E models](https://beta.openai.com/docs/guides/images) to generate images.
 
 <img src="public/img/screen.png" width="500">
